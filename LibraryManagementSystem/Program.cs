@@ -9,10 +9,6 @@ namespace LibraryManagementSystem
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-
         public static string serverName = @"BURAK\SQLSERVER";
         [STAThread]
         static void Main()
