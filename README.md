@@ -1,4 +1,2 @@
 # LibraryManagementSystem
-Go to Program.cs
-
-thrash
+This is my first project. Please review accordingly.
